@@ -2,4 +2,4 @@
 
 Encriptador / desencriptador basico en Javascrip
 
-by Anel.lemus
+by Anel.Lemus
