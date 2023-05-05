@@ -1,3 +1,3 @@
-# CHALLENGE1 
+# Challenge 1 - Oracle One G5  
 
-ENCRIPTADOR BASICO EN JAVASCRIP
+Encriptador / desencriptador basico en Javascrip
